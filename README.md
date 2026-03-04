@@ -1,4 +1,4 @@
 # ntoskrnl
 大部分常见windows内核文件合集
 
-![image](https://github.com/fly55555/ntoskrnl/assets/43460407/7fd0700d-d226-4732-bd7a-9ee78d8c8efe)
+<img width="874" height="1274" alt="image" src="https://github.com/user-attachments/assets/dd109cb0-a6a9-4786-a7b2-7cc8e714298b" />
